@@ -7,6 +7,9 @@ A deterministic, context-aware AI assistant backend built for the Vera Challenge
 **Base URL:**  
 https://magicpin-vera-challenge-v1yt.onrender.com
 
+**Swagger / OpenAPI Docs:**  
+https://magicpin-vera-challenge-v1yt.onrender.com/docs
+
 ## API Endpoints
 
 - `GET /v1/healthz` — Health check
