@@ -110,3 +110,40 @@ magicpin-vera-challenge/
     ├── context.png
     ├── tick.png
     └── reply.png
+
+### 5. Screenshots README mein dikhane ke liye
+
+Kyuki screenshots folder ke andar honge, README mein path bhi aise hona chahiye:
+
+```markdown
+## API Verification
+
+### Health Check
+
+`GET /v1/healthz` → **200 OK**
+
+![Health Check](screenshots/healthz-200-ok.png)
+
+### Metadata
+
+`GET /v1/metadata` → **200 OK**
+
+![Metadata](screenshots/metadata-200-ok.png)
+
+### Context
+
+`POST /v1/context` → **200 OK**
+
+![Context API](screenshots/context-200-ok.png)
+
+### Tick
+
+`POST /v1/tick` → **200 OK**
+
+![Tick API](screenshots/tick-200-ok.png)
+
+### Reply
+
+`POST /v1/reply` → **200 OK**
+
+![Reply API](screenshots/reply-200-ok.png)
