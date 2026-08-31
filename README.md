@@ -96,6 +96,9 @@ The application is deployed on Render and is publicly accessible through the liv
 
 https://magicpin-vera-challenge-v1yt.onrender.com
 
+**Swagger / OpenAPI Documentation:**  
+https://magicpin-vera-challenge-v1yt.onrender.com/docs
+
 ## Project Structure
 
 ```text
