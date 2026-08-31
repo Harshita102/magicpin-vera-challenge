@@ -104,10 +104,14 @@ magicpin-vera-challenge/
 ├── requirements.txt
 ├── submission.json
 ├── README.md
-└── screenshots/
-    ├── healthz.png
-    ├── metadata.png
-    ├── context.png
-    ├── tick.png
-    └── reply.png
-
+├── Vera Merchant.AI Assistant.png
+├── Healthz.png
+├── MetaData.png
+├── Context-execute.png
+├── context-200-ok.png
+├── healthz-200-ok.png
+├── metadata-200-ok.png
+├── reply-200-ok.png
+├── reply-execute.png
+├── tick-200-ok.png
+└── tick-execute.png
